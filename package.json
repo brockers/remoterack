@@ -1,0 +1,15 @@
+{
+  "name": "remoterack",
+  "version": "0.0.1",
+  "description": "Tools to remotely manage Rackspace Cloud instances.",
+  "main": "rs_mksrvr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bobby Rockers",
+  "license": "BOB",
+  "dependencies": {
+    "pkgcloud": "~0.8.17",
+    "underscore": "~1.5.2"
+  }
+}
